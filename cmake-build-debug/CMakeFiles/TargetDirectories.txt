@@ -1,0 +1,3 @@
+C:/Users/gmcbu/Desktop/Executables/Projects/ScriptingandProgramming-Applications-C867/cmake-build-debug/CMakeFiles/Projects.dir
+C:/Users/gmcbu/Desktop/Executables/Projects/ScriptingandProgramming-Applications-C867/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gmcbu/Desktop/Executables/Projects/ScriptingandProgramming-Applications-C867/cmake-build-debug/CMakeFiles/rebuild_cache.dir
